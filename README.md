@@ -1,2 +1,2 @@
 # meshtools
-a noise combining module for godot
+A mesh combining module for godot. The base format of a mesh for this module is an ArrayMesh.
