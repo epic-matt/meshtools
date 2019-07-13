@@ -1,2 +1,2 @@
 # meshtools
-A mesh combining module for godot. The base format of a mesh for this module is an ArrayMesh.
+A mesh combining module for godot. The base format of a mesh for this module is a godot ArrayMesh.
